@@ -10,6 +10,13 @@ data:extend({
 	},
 	{
 		type = "bool-setting",
+		name = "logistic range",
+		setting_type = "runtime-global",
+		default_value = false,
+		order = "010"
+	},
+	{
+		type = "bool-setting",
 		name = "creep landfill",
 		setting_type = "runtime-global",
 		default_value = false,

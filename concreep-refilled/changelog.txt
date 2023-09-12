@@ -1,5 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
+Uncommitted:
+  Changes:
+    - Logistic range based creep range.
 Date: 2023-09-12
   Changes:
     - Toggle to not deconstruct entitities.
